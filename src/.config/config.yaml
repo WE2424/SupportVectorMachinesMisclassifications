@@ -1,0 +1,25 @@
+# Solver location
+gurobiPath: C:\gurobi1001\win64\matlab
+
+# Data
+getDataByMeasurements : true
+dataSize : 20
+features : 5
+scale : 10
+overlapPerc : 0
+noisePerc : 0
+outlierFactor : 1
+m1 : 10
+s1 : 1
+m2 : -10
+s2 : 1
+m3 : 10
+s3 : 10
+m4 : 10
+s4 : 10
+noisePerc1 : 0.5
+noisePerc2 : 0.5
+iMax : 1
+
+# SVM
+errorPenaltyConstant : 1000
